@@ -1,4 +1,4 @@
-print('Girar 90º hacia la derecha')
+print('Girar 
 print('Girar 90º hacia la derecha')
 print('Girar 90º hacia la derecha')
 print('Avanza exactamente dos casillas hacia el frente')
